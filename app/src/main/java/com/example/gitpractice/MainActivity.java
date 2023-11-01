@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("THIS IS MY SECOND COMMIT");
         System.out.println("Local change");
         System.out.println("Change 2");
+        System.out.println("This line will be merged");
     }
 }
