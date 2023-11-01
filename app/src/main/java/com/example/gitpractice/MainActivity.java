@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("THIS IS MY SECOND COMMIT");
         System.out.println("Local change");
-        System.out.println("Experimental");
+        System.out.println("Change 1");
     }
 }
