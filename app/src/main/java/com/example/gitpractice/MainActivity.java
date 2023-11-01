@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         System.out.println("THIS IS MY SECOND COMMIT");
+        today is a good  day
     }
 }
